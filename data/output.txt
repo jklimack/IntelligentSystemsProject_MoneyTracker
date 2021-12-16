@@ -1,0 +1,130 @@
+Running data set
+Best Accuracy : 0.1026
+{'vocab_size': 2165, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.0709
+
+Running data set
+Best Accuracy : 0.0948
+{'vocab_size': 3384, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.0946
+
+Running data set
+Best Accuracy : 0.0948
+{'vocab_size': 3384, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.0946
+
+Running data set
+Best Accuracy : 0.0948
+{'vocab_size': 3384, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.0946
+
+Running data set
+Best Accuracy : 0.1418
+{'vocab_size': 3383, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.1197
+
+Running data set
+Best Accuracy : 0.1651
+{'vocab_size': 3383, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.1081
+
+Running data set
+Best Accuracy : 0.1541
+{'vocab_size': 3383, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.1467
+
+Running data set
+Best Accuracy : 0.1509
+{'vocab_size': 3383, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.1486
+
+Running data set
+Best Accuracy : 0.1451
+{'vocab_size': 3383, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.1506
+
+Running data set
+Best Accuracy : 0.1522
+{'vocab_size': 3383, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.1602
+
+Running data set
+Best Accuracy : 0.1246
+{'vocab_size': 17257, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.0947
+
+Running data set
+Best Accuracy : 0.1254
+{'vocab_size': 17257, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.0945
+
+Running data set
+Best Accuracy : 0.1226
+{'vocab_size': 17257, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.1341
+
+Running data set
+Best Accuracy : 0.1539
+{'vocab_size': 17257}
+Test Accuracy : 0.1306
+
+Running data set
+Best Accuracy : 0.1259
+{'vocab_size': 17257}
+Test Accuracy : 0.1369
+
+Running data set
+Best Accuracy : 0.1381
+{'vocab_size': 4000}
+Test Accuracy : 0.1287
+
+Running data set
+Best Accuracy : 0.2906
+{'vocab_size': 4000}
+Test Accuracy : 0.3010
+
+Running data set
+Best Accuracy : 0.2923
+{'vocab_size': 4000}
+Test Accuracy : 0.2930
+
+Running data set
+Best Accuracy : 0.3801
+{'vocab_size': 8000, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.3769
+
+Running data set
+Best Accuracy : 0.3806
+{'vocab_size': 8000, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.3762
+
+Running data set
+Best Accuracy : 0.8468
+{'vocab_size': 8000, 'num_filters': 64, 'maxlen': 200, 'kernel_size': 7, 'embedding_dim': 50}
+Test Accuracy : 0.8720
+
+Running data set
+Best Accuracy : 0.8504
+{'vocab_size': 8000, 'num_filters': 64, 'maxlen': 200, 'kernel_size': 3, 'embedding_dim': 50}
+Test Accuracy : 0.8684
+
+Running data set
+Best Accuracy : 0.7506
+{'vocab_size': 8000, 'num_filters': 64, 'maxlen': 200, 'kernel_size': 3, 'embedding_dim': 50}
+Test Accuracy : 0.7714
+
+Running data set
+Best Accuracy : 0.8231
+{'vocab_size': 8000, 'num_filters': 64, 'maxlen': 200, 'kernel_size': 3, 'embedding_dim': 50}
+Test Accuracy : 0.8497
+
+Running data set
+Best Accuracy : 0.8099
+{'vocab_size': 8000, 'num_filters': 64, 'maxlen': 200, 'kernel_size': 3, 'embedding_dim': 50}
+Test Accuracy : 0.8350
+
+Running data set
+Best Accuracy : 0.8497
+{'vocab_size': 8000, 'num_filters': 64, 'maxlen': 200, 'kernel_size': 3, 'embedding_dim': 50}
+Test Accuracy : 0.8722
+
